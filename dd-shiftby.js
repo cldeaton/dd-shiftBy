@@ -1,4 +1,3 @@
-// shiftby ===================================
 
 Array.prototype.shiftBy = function (movements){
   movements = movements % this.length;
