@@ -7,7 +7,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "author": "",
+  "author": "deaton_dev",
   "license": "ISC",
   "devDependencies": {
     "jest": "^22.4.3"
